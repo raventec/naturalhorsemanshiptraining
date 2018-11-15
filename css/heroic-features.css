@@ -20,8 +20,37 @@
   z-index: 1;
 }
 
+.navbar {
+  background-color: #604020;
+
+}
+.navbar-brand {
+  font-size: 2em;
+}
+
+.navbar-menu {
+  font-size: 1.2em;
+}
+
+.jumbotron {
+    background-color: #cc9966;
+}
+
+.lead {
+  font-weight: 400;
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.7em;
+}
 body {
   padding-top: 54px;
+}
+
+.navbar-email a:link{
+  color: white;
+}
+
+.footer-back {
+  background-color: #604020;
 }
 
 @media (min-width: 992px) {
