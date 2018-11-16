@@ -38,9 +38,15 @@
 
 .lead {
   font-weight: 400;
-  font-family: 'Dancing Script', cursive;
-  font-size: 1.7em;
+  }
+
+.signature {
+  text-align: right;
+  }
+p a {
+  color: black;
 }
+
 body {
   padding-top: 54px;
 }
